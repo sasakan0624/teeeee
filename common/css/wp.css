@@ -111,7 +111,7 @@ body{
    margin-bottom: 30px;
 }
  .fv{
-   background-image: url(../../images/fv_bg.png);
+   background-image: url(https://github.com/sasakan0624/teeeee/blob/main/images/fv_bg.png);
    background-repeat:no-repeat;
    background-position: center;
    background-size: cover;
@@ -199,10 +199,10 @@ body{
   background-size: cover;
 }
 .mainImage-block._block1{
-  background-image: url(../../images/concept_bg1.png);
+  background-image: url(https://github.com/sasakan0624/teeeee/blob/main/images/concept_bg1.png);
 }
 .mainImage-block._block2{
-  background-image: url(../../images/concept_bg2.png);
+  background-image: url(https://github.com/sasakan0624/teeeee/blob/main/images/concept_bg2.png);
 }
 .mainImage-block._block2 .mainImage-tit{
   width: 432px;
@@ -557,3 +557,8 @@ iframe{
       margin: 0;
     }
   }
+ 
+
+
+
+ 
